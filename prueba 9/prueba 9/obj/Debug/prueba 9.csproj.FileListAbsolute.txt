@@ -1,0 +1,31 @@
+C:\Users\usuario\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\prueba 9\prueba 9\obj\Debug\prueba_9.Form1.resources
+C:\Users\usuario\source\repos\prueba 9\prueba 9\obj\Debug\prueba_9.Properties.Resources.resources
+C:\Users\usuario\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\prueba 9\prueba 9\bin\Debug\prueba 9.exe.config
+C:\Users\usuario\source\repos\prueba 9\prueba 9\bin\Debug\prueba 9.exe
+C:\Users\usuario\source\repos\prueba 9\prueba 9\bin\Debug\prueba 9.pdb
+C:\Users\usuario\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.exe
+C:\Users\usuario\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.pdb
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\bin\Debug\prueba 9.exe.config
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\bin\Debug\prueba 9.exe
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\bin\Debug\prueba 9.pdb
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.AssemblyReference.cache
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\obj\Debug\prueba_9.Form1.resources
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\obj\Debug\prueba_9.Properties.Resources.resources
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.GenerateResource.cache
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.CoreCompileInputs.cache
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.exe
+C:\Users\Vocius\source\repos\prueba 9\prueba 9\obj\Debug\prueba 9.pdb
+C:\Users\usuario\Desktop\prueba 9\prueba 9\bin\Debug\prueba 9.exe.config
+C:\Users\usuario\Desktop\prueba 9\prueba 9\bin\Debug\prueba 9.exe
+C:\Users\usuario\Desktop\prueba 9\prueba 9\bin\Debug\prueba 9.pdb
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba_9.Form1.resources
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba_9.Properties.Resources.resources
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba 9.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba 9.exe
+C:\Users\usuario\Desktop\prueba 9\prueba 9\obj\Debug\prueba 9.pdb
