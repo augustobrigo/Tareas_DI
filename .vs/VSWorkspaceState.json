@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Conectar_BD",
+    "\\Conectar_BD\\Conectar_BD"
   ],
-  "SelectedNode": "\\C:\\Users\\usuario\\Desktop\\Tareas_DI_23",
+  "SelectedNode": "\\Conectar_BD\\Conectar_BD\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
