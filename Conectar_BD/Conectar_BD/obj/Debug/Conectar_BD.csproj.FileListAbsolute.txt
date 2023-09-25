@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\bin\Debug\Conectar_BD.exe
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\bin\Debug\Conectar_BD.pdb
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\obj\Debug\Conectar_BD.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\obj\Debug\Conectar_BD.Form1.resources
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\obj\Debug\Conectar_BD.Properties.Resources.resources
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\obj\Debug\Conectar_BD.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\obj\Debug\Conectar_BD.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\obj\Debug\Conectar_BD.exe
+C:\Users\usuario\Desktop\Tareas_DI_23\Conectar_BD\Conectar_BD\obj\Debug\Conectar_BD.pdb
