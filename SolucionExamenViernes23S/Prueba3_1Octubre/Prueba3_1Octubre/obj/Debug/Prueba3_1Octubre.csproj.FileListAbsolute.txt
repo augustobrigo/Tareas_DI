@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\obj\Debug\Prueba3_1Octubre.Form1.resources
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\obj\Debug\Prueba3_1Octubre.Properties.Resources.resources
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\obj\Debug\Prueba3_1Octubre.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\obj\Debug\Prueba3_1Octubre.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\bin\Debug\Prueba3_1Octubre.exe.config
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\bin\Debug\Prueba3_1Octubre.exe
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\bin\Debug\Prueba3_1Octubre.pdb
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\obj\Debug\Prueba3_1Octubre.exe
+C:\Users\David\source\repos\Prueba3_1Octubre\Prueba3_1Octubre\obj\Debug\Prueba3_1Octubre.pdb

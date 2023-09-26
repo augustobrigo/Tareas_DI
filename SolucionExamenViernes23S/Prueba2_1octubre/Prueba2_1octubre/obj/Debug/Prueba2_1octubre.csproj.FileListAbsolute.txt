@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\bin\Debug\Prueba2_1octubre.exe.config
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\bin\Debug\Prueba2_1octubre.exe
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\bin\Debug\Prueba2_1octubre.pdb
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\obj\Debug\Prueba2_1octubre.Form1.resources
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\obj\Debug\Prueba2_1octubre.Properties.Resources.resources
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\obj\Debug\Prueba2_1octubre.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\obj\Debug\Prueba2_1octubre.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\obj\Debug\Prueba2_1octubre.exe
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\obj\Debug\Prueba2_1octubre.pdb
+C:\Users\David\source\repos\Prueba2_1octubre\Prueba2_1octubre\obj\Debug\Prueba2_1octubre.csproj.AssemblyReference.cache
