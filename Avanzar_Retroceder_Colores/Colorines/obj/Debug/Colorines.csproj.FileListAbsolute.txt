@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\Colorines\Colorines\bin\Debug\Colorines.exe
+C:\Users\usuario\source\repos\Colorines\Colorines\bin\Debug\Colorines.pdb
+C:\Users\usuario\source\repos\Colorines\Colorines\obj\Debug\Colorines.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Colorines\Colorines\obj\Debug\Colorines.Form1.resources
+C:\Users\usuario\source\repos\Colorines\Colorines\obj\Debug\Colorines.Properties.Resources.resources
+C:\Users\usuario\source\repos\Colorines\Colorines\obj\Debug\Colorines.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Colorines\Colorines\obj\Debug\Colorines.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Colorines\Colorines\obj\Debug\Colorines.exe
+C:\Users\usuario\source\repos\Colorines\Colorines\obj\Debug\Colorines.pdb
